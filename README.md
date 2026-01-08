@@ -1,6 +1,6 @@
 # Aidan Emden — Data / ML + Backend Analytics
 
-I build data pipelines, analytics workflows, and backend data systems that turn messy data into clear decisions. Currently finishing my B.S. in Computer Science at George Mason University (May 2026). :contentReference
+I build data pipelines, analytics workflows, and backend data systems that turn messy data into clear decisions. Currently finishing my B.S. in Computer Science at George Mason University (May 2026). 
 
 ## What I’m focused on
 - Data pipelines (Python + SQL), warehouse-style modeling, and reliable reporting
