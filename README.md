@@ -32,7 +32,16 @@
 **Repo:** https://github.com/aemden/job-skill-radar  
 **Stack:** Python, SQL, DuckDB  
 - Built an end-to-end job-posting analytics pipeline; staged **1,200+ postings** into a queryable warehouse  
-- Created a transformation layer to classify postings into role families and surface skill-demand trends  
+- Created transformations to classify postings into role families and surface skill-demand trends  
+- Produced query-ready tables to enable fast skill frequency, trend, and role-level analysis  
+
+### 🧱 Product Analytics Warehouse (SQL-first)
+**Repo:** https://github.com/aemden/product-analytics-warehouse
+**Stack:** Python, SQL, DuckDB, Streamlit  
+- Generated realistic synthetic product data (users, sessions, events, orders) and loaded raw CSVs into DuckDB (`raw_*` tables)  
+- Built SQL-first marts for analytics (`fct_events`, `fct_sessions`, `fct_orders`, `kpi_daily`, `fct_funnel_daily`) plus A/B test results (`ab_results`)  
+- Shipped a Streamlit dashboard visualizing daily KPIs, funnel trends, and control vs treatment conversion outcomes  
+
 
 ---
 
